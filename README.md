@@ -8,3 +8,7 @@
     <img alt="isafdezpe's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
   </a>
 </p>
+
+****
+
+![isafdezpe's GitHub stats](https://github-readme-stats.vercel.app/api/?username=isafdezpe&show_icons=true&title_color=C300E6&icon_color=D26AEB&text_color=000&bg_color=fff)
