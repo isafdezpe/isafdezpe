@@ -11,4 +11,4 @@
 
 ****
 
-![isafdezpe's GitHub stats](https://github-readme-stats.vercel.app/api/?username=isafdezpe&show_icons=true&title_color=C300E6&icon_color=D26AEB&text_color=000&bg_color=fff)
+![isafdezpe's GitHub stats](https://github-readme-stats.vercel.app/api/?username=isafdezpe&count_private=true&show_icons=true&title_color=C300E6&icon_color=D26AEB&text_color=000&bg_color=fff)
