@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/m-isabel-fdez-perez">
     <img alt="isafdezpe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.0.1/icons/linkedin.svg" />
   </a>
-  <a href="mailto:isafdezpe@gmail.com">
+  <a href="mailto:isafdezpe98@gmail.com">
     <img alt="isafdezpe's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
   </a>
 </p>
