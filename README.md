@@ -39,4 +39,4 @@
 <!--</p>
 
 <p>&nbsp;-->
-<img  src="https://github-readme-stats.vercel.app/api?username=isafdezpe&show_icons=true&locale=en&hide=contribs" alt="isafdezpe" /></p>
+<img  src="https://github-readme-stats.vercel.app/api?username=isafdezpe&show_icons=true&locale=en&hide=contribs&count_private=true" alt="isafdezpe" /></p>
