@@ -35,6 +35,6 @@
 </p>
 
 
-<p>![](https://github-readme-stats.vercel.app/api/top-langs?username=isafdezpe&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=isafdezpe&show_icons=true&locale=en&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=isafdezpe&show_icons=true&locale=en&hide=contribs&count_private=true)</p>
+![](https://github-readme-stats.vercel.app/api?username=isafdezpe&show_icons=true&locale=en&hide=contribs&count_private=true)
