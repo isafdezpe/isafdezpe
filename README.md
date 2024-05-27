@@ -2,7 +2,7 @@
 <h3 align="center">a software engineer interested in web development.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m-isabel-fdez-perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-isabel-fdez-perez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isabelfdezpe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-isabel-fdez-perez" height="30" width="40" /></a>
 <a href="mailto:isafdezpe98@gmail.com">
     <img align="center"  alt="isafdezpe's Email" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" width="32"/>
   </a>
